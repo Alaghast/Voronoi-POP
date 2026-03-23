@@ -21,7 +21,7 @@ POP Operator for generating **2D Voronoi diagrams** as polygonal cells (line str
 ## Libraries Used
 
 - TouchDesigner POP C++ API
-- ![JCash/voronoi](https://github.com/JCash/voronoi)
+- [JCash/voronoi](https://github.com/JCash/voronoi)
 
 ## Requirements
 - Touchdesigner 2025+ (This plugin was tested in 2025.32460)
@@ -34,11 +34,11 @@ The "Git Clone" procedure for those who don't know how to do it:
 
 - Click on Code on the repository and copy the url
 
-![Copy_the_Url](https://github.com/user-attachments/assets/8b09796e-8b3f-4df2-9f74-748ae9817c2b)
+<img width="1728" height="607" alt="GitHub" src="https://github.com/user-attachments/assets/da60da71-5537-4d1f-bc79-5df2fc2ef569" />
 
 - Open your terminal in a folder you wish and digit 'git clone theUrlYouCopiedBefore'
 
-![git_clone](https://github.com/user-attachments/assets/f0a322c9-e29e-41c9-82d8-e4173e39b9ef)
+<img width="581" height="384" alt="Terminal" src="https://github.com/user-attachments/assets/c928310c-dc21-41fd-b24b-d5fb5e7bd679" />
 
 ## Installation
 
