@@ -12,7 +12,7 @@ POP Operator for generating **2D Voronoi diagrams** as polygonal cells (line str
 
 - Reads points from the input POP's `P` attribute
 - Projects points onto the `XY`, `YZ`, or `ZX` plane
-- Apply bounds to the cell generation in Auto and Manual mode
+- Apply bounds to the cell generation in Auto or Manual mode
 - Generates Voronoi diagrams reliably, even with degenerate inputs in 3 output modes (Line strips, triangle fills and Line strips + point primitive)
 - Supports both `Sync` and `Async` modes through the `Async` toggle
   - `Async` mode is recommended for animated or continuously changing inputs because it allows non-blocking computation
