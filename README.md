@@ -88,6 +88,7 @@ I'll be happy to see your results!
 Instagram: [@Alaghast](https://www.instagram.com/alaghast/)
 
 Want support me and this project? [Click Here!](https://ko-fi.com/alaghast)
+
 Want follow some of my future updates? [Click Here!](https://www.patreon.com//Alaghast)
 
 2025-26
