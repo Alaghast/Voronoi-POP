@@ -1,6 +1,6 @@
 # Voronoi-POP
 POP Operator for generating **2D Voronoi diagrams** as polygonal cells (line strips and/or triangle fills) from a point input.
-![Look it in action](https://www.youtube.com/watch?v=BMMM0prvyD4)
+[Look it in action](https://www.youtube.com/watch?v=BMMM0prvyD4)
 
 ![Voronoi Fill](assets/A-Voronoi.png)
 ![Voronoi Edges with centroids](assets/B-Voronoi.png)
